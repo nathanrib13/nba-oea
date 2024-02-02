@@ -1,0 +1,15 @@
+{
+  "name": "nba-oea-project",
+  "version": "1.0.0",
+  "description": "project to authomize the nba oea fantasy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nathan Ribeiro",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^21.11.0"
+  }
+}
